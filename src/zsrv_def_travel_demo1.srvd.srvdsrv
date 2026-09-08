@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE DEF'
+define service ZSRV_DEF_TRAVEL_DEMO1 {
+  expose ZCDS_TRAVEL_DEMO1;
+}
